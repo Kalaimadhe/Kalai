@@ -43,7 +43,7 @@ body {
   background-size:initial;
   margin: auto;
   border-radius: 100px;
-  border: 0.1em solid rgba(114, 7, 114, 0.815);
+  border: 0.1em solid black;
   z-index: 1;
 }
 
